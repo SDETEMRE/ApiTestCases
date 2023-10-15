@@ -35,3 +35,6 @@ Run [src/test/java/test/runners/CukesRunner.java] as maven test
 Get Allure Report
 -------------
 mvn allure:serve
+<img width="826" alt="15 10 2023_15 26 49_REC" src="https://github.com/SDETEMRE/ApiTestCases/assets/91288077/64f0d512-d5d2-4801-b530-28c463ce666d">
+
+
